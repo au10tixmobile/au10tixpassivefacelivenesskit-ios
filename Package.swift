@@ -33,12 +33,12 @@ let package = Package(
         .binaryTarget(
           name: "Au10tixDetectorManager",
           url: "https://github.com/au10tixmobile/Au10tixSourceManager/archive/refs/tags/3.28.0.zip",
-          checksum: "216918640a4a5e139622b349123b81b9d103ca70e3567b8077236d9ccce3d44e"
+          checksum: "661b4bc052ad236b654f8d09f4170462b991ec6ef8df35d37a9b6a113a23653f"
         ),
         .binaryTarget(
           name: "Au10tixPassiveFaceLivenessKit",
           url: "https://github.com/au10tixmobile/Au10tixPassiveFaceLivenessKit/archive/refs/tags/3.28.0.zip",
-          checksum: "84b77c823ca43b44c0762c4da3c288f35ec9520974b7dfaf2eb567c463f295d8"
+          checksum: "0f727335953db1e72572dc8676b0fa8acd620621d64a8e88807086bbfe22f200"
         )
     ]
 )
